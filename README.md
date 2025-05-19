@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasemin Nurluoglu</h1>
-<h3 align="center">A passionate Computer Science and Pure Mathematics student from Turkey</h3>
+<h3 align="center">A passionate Computer Science and Pure Mathematics student at BU</h3>
 
 - 📫 How to reach me **yaseminnurluoglu@icloud.com**
 
